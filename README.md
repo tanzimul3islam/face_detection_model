@@ -1,8 +1,6 @@
 ## Getting Started
 How to use
-```    
 
-```
  - Create dataset of face images.
  - Place the face images in dataset folder.
  - Extract facial embeddings.
@@ -20,6 +18,7 @@ How to use
 ```
 pip install -r ./requirements.txt
 ```
+
 
 
 
